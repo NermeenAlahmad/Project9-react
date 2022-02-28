@@ -1,0 +1,16 @@
+.add-post{
+    padding-top: 50px;
+}
+
+.cards{
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.card{
+    width: 50% !important;
+}
+
+.content{
+    text-align: left;
+}
